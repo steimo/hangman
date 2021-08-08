@@ -1,0 +1,18 @@
+--- !ruby/object:Game
+secret_word: accordance
+right_guessed_letters:
+- e
+- a
+- c
+- n
+wrong_guessed_letters:
+- i
+- p
+- w
+- t
+- g
+- b
+- n
+message: |2-
+
+  Enter a letter, or type 'save' to save progress:

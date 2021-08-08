@@ -1,0 +1,11 @@
+--- !ruby/object:Game
+secret_word: carjack
+right_guessed_letters:
+- a
+wrong_guessed_letters:
+- e
+- s
+- z
+message: |2-
+
+  Enter a letter, or type 'save' to save progress:
